@@ -1,0 +1,24 @@
+.container{
+    margin-top: 15vh;
+    width: 700px;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: 240px;
+}
+
+/* button:hover {
+    
+  } */
+
+  
+  input#y{
+      border-radius: 50px;
+      margin-top: 60px;
+      margin-bottom: 15px;
+  }
+
+
+  body{
+      background-image: url('https://blogs.forbes.com/olliebarder/files/2019/03/one_punch_man_s2_new.jpg');
+  }
